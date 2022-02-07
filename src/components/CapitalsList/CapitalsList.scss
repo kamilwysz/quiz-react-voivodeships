@@ -1,0 +1,30 @@
+@import "../../styles/settings.scss";
+
+table {
+  text-align: center;
+  font-family: "Karla", Sans-Serif;
+  font-size: 14px;
+  border: 3px solid $font-details-color;
+  min-width: 300px;
+  width: 50vw;
+  margin: 0px auto;
+  border-radius: $radius;
+  overflow: hidden;
+  box-shadow: 5px 3px $font-details-color;
+  border-collapse: collapse;
+  // color: $background-color-light;
+}
+
+tr {
+  background-color: #CDB4ED;
+  height:23px;
+}
+tr:nth-child(even){
+  background-color: #968CA3
+}
+
+th {
+  background-color: #89ABE8;
+  padding: 5px 0;
+  text-transform: uppercase;
+}
