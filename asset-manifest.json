@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quiz-react-voivodeships/static/css/main.adf24609.css",
+    "main.js": "/quiz-react-voivodeships/static/js/main.7919d9fa.js",
+    "index.html": "/quiz-react-voivodeships/index.html",
+    "main.adf24609.css.map": "/quiz-react-voivodeships/static/css/main.adf24609.css.map",
+    "main.7919d9fa.js.map": "/quiz-react-voivodeships/static/js/main.7919d9fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf24609.css",
+    "static/js/main.7919d9fa.js"
+  ]
+}
